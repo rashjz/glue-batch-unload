@@ -1,0 +1,13 @@
+ {
+  "projects": [
+    {
+      "baseDir": "python",
+      "testDir": "test",
+      "zipFile": "glue-etl-dynamodb-unload-app.zip",
+      "virtualEnv": "N",
+      "unitTests": "Y",
+      "repo": "artifactory",
+      "pythonVersion": "3.6"
+    }
+  ]
+}
