@@ -2,3 +2,4 @@ services-util
 pytest-cov
 pytest
 boto3
+pyspark
